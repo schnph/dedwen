@@ -1,15 +1,1 @@
-{"name":"Dedwen","ticker":"DDWN","description":"A Cardano Single Stake Pool Operator. Running on solar power and for diversity. Keeping my DevOps skills uptodate. A Node for decentralisation of the cardano network.","homepage":"https://github.com/schnph/dedwen","nonce":"1666073393"}
-{
-    "verification":"e941cd1196b7b96c42",
-    "info": {
-        "location": "Germany",
-        "social": {
-            "twitter_handle": "impyer",
-            "github_handle": "schnph",
-        },
-        "about": {
-            "me": "keeping my server / devops / devsec skills up with the setup",
-            "server": "Hosted at my Home in Germany 100 MB up/down, solar energy."
-        }
-    }
-}
+{"verification":"e941cd1196b7b96c42","name":"Dedwen","ticker":"DDWN","description":"A Cardano Single Stake Pool Operator. Running on solar power and for diversity. Keeping my DevOps skills uptodate. A Node for decentralisation of the cardano network.","homepage":"https://github.com/schnph/dedwen","nonce":"1666073393"}
